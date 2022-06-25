@@ -1,0 +1,52 @@
+﻿#cek2 {
+    display: none;
+}
+
+#cek2, label #masuk, label #keluar {
+    position: absolute;
+    left: 9rem;
+    top: 1rem;
+    z-index: 111;
+}
+
+    #cek2 ~ label #keluar {
+        top: 1.3rem;
+        left: 0.5rem;
+    }
+
+    #cek2:checked ~ label #keluar {
+        display: none;
+    }
+
+    #cek2 ~ label #masuk {
+        display: none;
+    }
+
+    #cek2:checked ~ label #masuk {
+        display: block;
+    }
+
+    #cek2:checked ~ .sidebar {
+        left: 0rem;
+    }
+
+#masuk {
+    position: relative;
+}
+
+.sidebar {
+    background-color: burlywood;
+    position: fixed;
+    left: -20rem;
+    width: 250px;
+    height: 100%;
+    margin-top: -100px;
+    padding-top: 30px;
+    transition: .5s;
+}
+
+.form-control {
+    background-color: rgb(255, 239, 208);
+    border: none;
+    color: black;
+}

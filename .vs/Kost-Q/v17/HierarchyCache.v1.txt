@@ -1,0 +1,296 @@
+﻿++Solution 'Kost-Q' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Kost-Q.sln
+++Kost-Q
+i:{00000000-0000-0000-0000-000000000000}:Kost-Q
+++Properties
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\properties\
+++References
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++Content
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\
+++img
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\img\
+++1.jpeg
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\img\1.jpeg
+++2.jpeg
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\img\2.jpeg
+++Scripts
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\scripts\
+++src
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\
+++Customer.Master
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\customer.master
+++Data_Kamar_Detail.aspx
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\data_kamar_detail.aspx
+++Data_Kamar_Kost_A.aspx
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\data_kamar_kost_a.aspx
+++Data_Kamar_Kost_C.aspx
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\data_kamar_kost_c.aspx
+++Data_Penyewa.aspx
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\data_penyewa.aspx
+++Data_Penyewa_Detail.aspx
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\data_penyewa_detail.aspx
+++Detail_Kamar_Customer.aspx
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\detail_kamar_customer.aspx
+++Halaman.Master
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\halaman.master
+++Laporan_Keuangan.aspx
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\laporan_keuangan.aspx
+++Laporan_Keuangan_Detail.aspx
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\laporan_keuangan_detail.aspx
+++Login_Customer.aspx
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\login_customer.aspx
+++Login_Owner.aspx
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\login_owner.aspx
+++style.css
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\style.css
+++Tambah_Data_Kamar.aspx
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\tambah_data_kamar.aspx
+++Tambah_Data_Penyewa.aspx
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\tambah_data_penyewa.aspx
+++Tambah_Laporan_Keuangan.aspx
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\tambah_laporan_keuangan.aspx
+++Ubah_Data_Kamar.aspx
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\ubah_data_kamar.aspx
+++Ubah_Laporan_Keuangan.aspx
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\ubah_laporan_keuangan.aspx
+++packages.config
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\packages.config
+++Web.config
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\web.config
+++AssemblyInfo.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\properties\assemblyinfo.cs
+++EntityFramework
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++EntityFramework.SqlServer
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++EntityFramework6.Npgsql
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++Microsoft.Bcl.AsyncInterfaces
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++Microsoft.Bcl.HashCode
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++Microsoft.CSharp
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++Npgsql
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Buffers
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Collections.Immutable
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.ComponentModel.DataAnnotations
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Configuration
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Core
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Data
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Data.DataSetExtensions
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Diagnostics.DiagnosticSource
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Drawing
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.EnterpriseServices
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Memory
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Numerics
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Numerics.Vectors
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Runtime.CompilerServices.Unsafe
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Text.Encodings.Web
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Text.Json
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Threading.Channels
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Threading.Tasks.Extensions
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Transactions
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.ValueTuple
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Web
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Web.ApplicationServices
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Web.DynamicData
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Web.Entity
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Web.Extensions
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Web.Services
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Xml
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++System.Xml.Linq
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:
+++bootstrap-grid.css
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-grid.css
+++bootstrap-grid.css.map
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-grid.min.css
+++bootstrap-grid.min.css.map
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-grid.rtl.css
+++bootstrap-grid.rtl.css.map
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-grid.rtl.min.css
+++bootstrap-grid.rtl.min.css.map
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.css
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-reboot.css
+++bootstrap-reboot.css.map
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-reboot.min.css
+++bootstrap-reboot.min.css.map
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-reboot.rtl.css
+++bootstrap-reboot.rtl.css.map
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-reboot.rtl.min.css
+++bootstrap-reboot.rtl.min.css.map
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.css
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-utilities.css
+++bootstrap-utilities.css.map
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-utilities.min.css
+++bootstrap-utilities.min.css.map
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-utilities.rtl.css
+++bootstrap-utilities.rtl.css.map
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-utilities.rtl.min.css
+++bootstrap-utilities.rtl.min.css.map
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap-utilities.rtl.min.css.map
+++bootstrap.css
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap.css
+++bootstrap.css.map
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap.css.map
+++bootstrap.min.css
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap.min.css.map
+++bootstrap.rtl.css
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap.rtl.css
+++bootstrap.rtl.css.map
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap.rtl.min.css
+++bootstrap.rtl.min.css.map
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\content\bootstrap.rtl.min.css.map
+++bootstrap.bundle.js
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\scripts\bootstrap.bundle.js
+++bootstrap.bundle.js.map
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\scripts\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\scripts\bootstrap.bundle.min.js
+++bootstrap.bundle.min.js.map
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\scripts\bootstrap.bundle.min.js.map
+++bootstrap.esm.js
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\scripts\bootstrap.esm.js
+++bootstrap.esm.js.map
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\scripts\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\scripts\bootstrap.esm.min.js
+++bootstrap.esm.min.js.map
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\scripts\bootstrap.esm.min.js.map
+++bootstrap.js
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\scripts\bootstrap.js
+++bootstrap.js.map
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\scripts\bootstrap.js.map
+++bootstrap.min.js
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\scripts\bootstrap.min.js
+++bootstrap.min.js.map
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\scripts\bootstrap.min.js.map
+++Customer.Master.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\customer.master.cs
+++Customer.Master.designer.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\customer.master.designer.cs
+++Data_Kamar_Detail.aspx.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\data_kamar_detail.aspx.cs
+++Data_Kamar_Detail.aspx.designer.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\data_kamar_detail.aspx.designer.cs
+++Data_Kamar_Kost_A.aspx.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\data_kamar_kost_a.aspx.cs
+++Data_Kamar_Kost_A.aspx.designer.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\data_kamar_kost_a.aspx.designer.cs
+++Data_Kamar_Kost_C.aspx.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\data_kamar_kost_c.aspx.cs
+++Data_Kamar_Kost_C.aspx.designer.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\data_kamar_kost_c.aspx.designer.cs
+++Data_Penyewa.aspx.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\data_penyewa.aspx.cs
+++Data_Penyewa.aspx.designer.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\data_penyewa.aspx.designer.cs
+++Data_Penyewa_Detail.aspx.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\data_penyewa_detail.aspx.cs
+++Data_Penyewa_Detail.aspx.designer.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\data_penyewa_detail.aspx.designer.cs
+++Detail_Kamar_Customer.aspx.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\detail_kamar_customer.aspx.cs
+++Detail_Kamar_Customer.aspx.designer.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\detail_kamar_customer.aspx.designer.cs
+++Halaman.Master.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\halaman.master.cs
+++Halaman.Master.designer.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\halaman.master.designer.cs
+++Laporan_Keuangan.aspx.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\laporan_keuangan.aspx.cs
+++Laporan_Keuangan.aspx.designer.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\laporan_keuangan.aspx.designer.cs
+++Laporan_Keuangan_Detail.aspx.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\laporan_keuangan_detail.aspx.cs
+++Laporan_Keuangan_Detail.aspx.designer.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\laporan_keuangan_detail.aspx.designer.cs
+++Login_Customer.aspx.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\login_customer.aspx.cs
+++Login_Customer.aspx.designer.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\login_customer.aspx.designer.cs
+++Login_Owner.aspx.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\login_owner.aspx.cs
+++Login_Owner.aspx.designer.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\login_owner.aspx.designer.cs
+++Tambah_Data_Kamar.aspx.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\tambah_data_kamar.aspx.cs
+++Tambah_Data_Kamar.aspx.designer.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\tambah_data_kamar.aspx.designer.cs
+++Tambah_Data_Penyewa.aspx.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\tambah_data_penyewa.aspx.cs
+++Tambah_Data_Penyewa.aspx.designer.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\tambah_data_penyewa.aspx.designer.cs
+++Tambah_Laporan_Keuangan.aspx.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\tambah_laporan_keuangan.aspx.cs
+++Tambah_Laporan_Keuangan.aspx.designer.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\tambah_laporan_keuangan.aspx.designer.cs
+++Ubah_Data_Kamar.aspx.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\ubah_data_kamar.aspx.cs
+++Ubah_Data_Kamar.aspx.designer.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\ubah_data_kamar.aspx.designer.cs
+++Ubah_Laporan_Keuangan.aspx.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\ubah_laporan_keuangan.aspx.cs
+++Ubah_Laporan_Keuangan.aspx.designer.cs
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\src\ubah_laporan_keuangan.aspx.designer.cs
+++Web.Debug.config
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\web.debug.config
+++Web.Release.config
+i:{67927a57-c3da-4ef8-aad8-f4e3689fcbb3}:a:\pemrograman\c #\tugas-kuliah\projek\car_rental\kost-q\web.release.config
